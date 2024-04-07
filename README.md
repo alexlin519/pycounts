@@ -2,6 +2,10 @@
 
 Calculate word counts in a text file!
 
+- Published package pycounts to [TestPyPi](https://test.pypi.org/project/pycounts_ubc/)
+
+- Hosting pacakge documentation online. Access it via the [link](https://pycounts-ubc.readthedocs.io/en/latest/)
+
 ## Installation
 
 ```bash
