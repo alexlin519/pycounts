@@ -23,6 +23,8 @@ build:
       - poetry install
       - pip install myst-nb
       - pip install autoapi
+      - pip install autoapi.extension
+
       
 # Build documentation in the "docs/" directory with Sphinx
 sphinx:
